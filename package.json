@@ -15,7 +15,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/RecastAI/SDK-NodeJs.git"
+    "url": "git+https://github.com/Millasdur/my-package.git"
   },
   "keywords": [
     "recastai"
@@ -23,9 +23,9 @@
   "author": "Jerome Houdan <jerome.houdan@recast.ai> (https://recast.ai)",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/RecastAI/SDK-NodeJs/issues"
+    "url": "https://github.com/Millasdur/my-package.git/issues"
   },
-  "homepage": "https://github.com/RecastAI/SDK-NodeJs#readme",
+  "homepage": "https://github.com/Millasdur/my-package.git#readme",
   "devDependencies": {
     "babel-cli": "^6.22.0",
     "babel-eslint": "^6.0.4",
